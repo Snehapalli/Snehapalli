@@ -1,0 +1,29 @@
+.one{
+    height: 500px;
+    width: 1000px;
+    font-size: medium;
+}
+.card
+{
+    width: 700px;
+    height: 700px;
+    display: flex;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+.card-img{
+    height:100px;
+    width: 100px;
+}
+.card-body{
+    width: 500px;
+}
+.card-title{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: medium;
+}
+.card-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: small;
+}
